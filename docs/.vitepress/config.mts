@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Програмування модів для Minecraft Fabric",
   base: '/MTTutorials/',
   themeConfig: {
-    logo: "/logo.png",
+    logo: "https://github.com/MEGATREX4/MTTutorials/blob/main/docs/logo.png?raw=true",
     nav: [
       { text: 'Головна', link: '/' },
       { 
