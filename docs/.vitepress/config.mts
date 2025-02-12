@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Програмування модів для Minecraft Fabric",
   base: '/MTTutorials/',
   themeConfig: {
-    // Навігаційне меню
+    logo: "/logo.png",
     nav: [
       { text: 'Головна', link: '/' },
       { 
