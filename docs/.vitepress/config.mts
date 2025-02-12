@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'uk_ua',
   title: "MT Уроки Minecraft Fabric",
   description: "Програмування модів для Minecraft Fabric",
+  base: '/MTTutorials/',
   themeConfig: {
     // Навігаційне меню
     nav: [
