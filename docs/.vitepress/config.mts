@@ -1,6 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+
+  head: [
+    ['link', { rel: 'icon', href: 'https://github.com/MEGATREX4/MTTutorials/blob/main/docs/logo.png?raw=true' }],
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1' }],
+  ],
+
   lang: 'uk_ua',
   title: "MT Уроки Minecraft Fabric",
   description: "Програмування модів для Minecraft Fabric",
