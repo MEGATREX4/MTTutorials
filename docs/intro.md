@@ -17,11 +17,11 @@
 
 <script setup>
 function go120() {
-  window.location.href = "/1.20/index.html";
+  window.location.href = "/MTTutorials/1.20/index.html";
 }
 
 function go121() {
-  window.location.href = "/1.21/index.html";
+  window.location.href = "/MTTutorials//1.21/index.html";
 }
 
 </script>
