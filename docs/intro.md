@@ -53,8 +53,4 @@ function go121() {
     justify-content: center;
     align-items: center;
 }
-
-    .prev-next{
-        display: none !important;
-    }
 </style>
